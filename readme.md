@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Emilio+Fonseca+%F0%9F%91%8B;Desarrollador+Full+Stack+%2B+Ingeniero+de+IA; Construyo+soluciones+de+IA+en+producci%C3%B3n+%F0%9F%A4%96;LLMs+%C2%B7+RAG+%C2%B7+Agentes+%C2%B7+MCP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Emilio+Fonseca+%F0%9F%91%8B;Desarrollador+Full+Stack+%2B+Ingeniero+de+IA;_Construyo+soluciones+de+IA+en+producci%C3%B3n+%F0%9F%A4%96;LLMs+%C2%B7+RAG+%C2%B7+Agentes+%C2%B7+MCP" alt="Typing SVG" />
 
 <br/>
 
